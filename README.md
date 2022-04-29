@@ -5,11 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/totallynotnico0" target="blank"><img src="https://img.shields.io/twitter/follow/totallynotnico0?logo=twitter&style=for-the-badge" alt="totallynotnico0" /></a> </p>
 
-- 🔭 I’m currently working on: **Discord bots for my server. NicoBot and Nico Utilities.**
+- 🔭 I’m currently working on: **Discord bots for my server.**
 - ⚡ Fun fact: **I like to code in JavaScript :D**
 - 🌱 I’m currently learning: **JavaScript.**
-- 📫 How to reach me: **You can DM me on Discord or join my server: TotallyNotNico#2013 or https://discord.gg/VWfTERcYhG**
-- 👩 Pronouns: **She/Her**
+- 📫 How to reach me: **You can DM me on Discord or join my server: TotallyNotNico#5347 or https://discord.gg/VWfTERcYhG**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
